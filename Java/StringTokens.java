@@ -1,5 +1,5 @@
 // solution to hackerrank challenge
-// https://www.hackerrank.com/snippets/de5b993a-aa21-4939-a9e3-aa56c448a808/code-xor-dies-snippet-from-java-string-tokens
+// https://www.hackerrank.com/challenges/java-string-tokens/problem
 // @code_xor_die
 
 import java.io.*;
