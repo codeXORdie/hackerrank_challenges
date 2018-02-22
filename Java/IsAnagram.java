@@ -1,5 +1,6 @@
 // solution to the challenge 
-// https://www.hackerrank.com/snippets/6380a438-bbdb-45a1-a2c6-18e72b6de4bf/code-xor-dies-snippet-from-java-anagram
+// @code_xor_die
+// https://www.hackerrank.com/challenges/java-anagrams/problem
 
 static boolean isAnagram(String a, String b) {
         boolean isAnagram = true;
