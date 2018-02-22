@@ -1,3 +1,6 @@
+// solution to the challenge 
+// https://www.hackerrank.com/snippets/6380a438-bbdb-45a1-a2c6-18e72b6de4bf/code-xor-dies-snippet-from-java-anagram
+
 static boolean isAnagram(String a, String b) {
         boolean isAnagram = true;
         //if length of the strings are not equal, they can't be anagrams
