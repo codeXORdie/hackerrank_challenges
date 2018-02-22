@@ -8,6 +8,7 @@ public class Solution {
     static void miniMaxSum(int[] arr) {
         long min = 0;
         long max = 0;
+        //sort array
         Arrays.sort(arr);
         //sum up all numbers but the last to get min
         for(int x=0; x<arr.length-1; x++) {
