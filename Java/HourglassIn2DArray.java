@@ -1,4 +1,4 @@
-// @code_xor_die
+// @think_or_die
 // https://www.hackerrank.com/challenges/java-2d-array/problem
 
 import java.io.*;
