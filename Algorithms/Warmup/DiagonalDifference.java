@@ -1,5 +1,5 @@
 // https://www.hackerrank.com/challenges/diagonal-difference/problem
-// solution by @code-xor-die
+// solution by @think_or_die
 
 public class Solution {
 
