@@ -1,5 +1,5 @@
 // solution to the challenge 
-// @code_xor_die
+// @think_or_die
 // https://www.hackerrank.com/challenges/java-anagrams/problem
 
 static boolean isAnagram(String a, String b) {
