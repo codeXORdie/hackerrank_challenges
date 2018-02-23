@@ -1,4 +1,4 @@
-// solution by code-xor-die
+// solution by @think_or_die
 // https://www.hackerrank.com/challenges/staircase/problem
 
 import java.util.*;
