@@ -1,6 +1,6 @@
 // solution to hackerrank challenge
 // https://www.hackerrank.com/challenges/java-string-tokens/problem
-// @code_xor_die
+// @think_or_die
 
 import java.io.*;
 import java.util.*;
