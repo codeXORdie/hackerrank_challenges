@@ -9,12 +9,14 @@ public class Solution {
         int countA = 0;
         int countO = 0;
         for(int x : apples) {
+            //if apple went to left (negative value) there's no need to check
             if(x > 0) {
                 int distance = a + x;
                 if(distance >= s && distance <= t) countA++;
             }
         }
         for(int x : oranges) {
+            //if range went to right (positive value) no need to check
             if(x < 0) {
                 int distance = b + x;
                 if(distance <= t && distance >= s) countO++;
