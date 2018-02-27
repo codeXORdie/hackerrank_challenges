@@ -1,4 +1,4 @@
-//solution by 
+//solution by @think_or_die
 //https://www.hackerrank.com/challenges/migratory-birds/problem
 
 import java.util.*;
